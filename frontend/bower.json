@@ -1,0 +1,22 @@
+{
+  "name": "frontend",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.0.0",
+    "purescript-console": "^3.0.0",
+    "purescript-maybe": "^3.0.0",
+    "purescript-arrays": "^4.0.1",
+    "purescript-maps": "^3.0.0",
+    "purescript-flare": "^3.0.0",
+    "purescript-smolder": "^7.0.0",
+    "purescript-jquery": "^4.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
